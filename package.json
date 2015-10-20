@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/jhudson8/react-chartjs",
   "peerDependencies": {
-    "react": "0.14.0-rc1",
+    "react": "^0.14.0",
     "chart.js": "*"
   },
   "devDependencies": {
